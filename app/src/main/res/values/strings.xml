@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SubmissionStoryApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="desc"> Explore a diverse range of stories created by fellow students. From tech to creativity, there\'s a story for everyone.</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="title_login_page">Welcome Back!</string>
+    <string name="message_login_page">Log In to Your Account</string>
+    <string name="email">Email\n</string>
+    <string name="password">Password</string>
+    <string name="credit">\@dwikyalfira | 2023</string>
+    <string name="name">Name\n</string>
+    <string name="title_signup_page">Create A New Account</string>
+    <string name="password_min_char">Password minimal 8 characters!</string>
+    <string name="pass_empty">Insert Password!</string>
+</resources>
